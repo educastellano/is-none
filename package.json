@@ -1,0 +1,22 @@
+{
+  "name": "is-none",
+  "version": "1.0.0",
+  "description": "Checks wether a value is none (null or undefined)",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/educastellano/is-none.git"
+  },
+  "author": "Eduard Castellano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/educastellano/is-none/issues"
+  },
+  "homepage": "https://github.com/educastellano/is-none#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
