@@ -1,1 +1,3 @@
-module.exports = x => x === undefined || x === null
+module.exports = function (x) {
+    return x === undefined || x === null;
+}
